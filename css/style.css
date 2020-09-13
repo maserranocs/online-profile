@@ -30,8 +30,8 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer-menu li a:hover {
-  /*color: #b30000;*/
-  color: #b30000;
+  /*color: #D6B161;*/
+  color: #D6B161;
   text-decoration: none;
 }
 
@@ -131,20 +131,20 @@ label {
 }
 
 *::-moz-selection {
-  background: #b30000;
+  background: #D6B161;
   color: #fff;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: #b30000;
+  background: #D6B161;
   color: #fff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #b30000;
-  /* background: #b30000;*/
+  background: #D6B161;
+  /* background: #D6B161;*/
   color: #fff;
   text-shadow: none;
 }
@@ -376,7 +376,7 @@ label {
 }
 
 .button-colored>span {
-  background: #b30000 none repeat scroll 0 0;
+  background: #D6B161 none repeat scroll 0 0;
   display: inline-block;
   padding: 0 20px;
 }
@@ -391,8 +391,8 @@ label {
 
 .button:hover,
 .button.active-btn {
-  /*background: #b30000;*/
-  background: #b30000;
+  /*background: #D6B161;*/
+  background: #D6B161;
   color: #ffffff;
 }
 
@@ -530,8 +530,8 @@ label {
 }
 
 .main-menu li:hover>a {
-  /* color: #b30000;*/
-  color: #b30000;
+  /* color: #D6B161;*/
+  color: #D6B161;
 }
 
 .main-menu li a span {
@@ -541,8 +541,8 @@ label {
 
 .main-menu li ul {
   background: #fff none repeat scroll 0 0;
-  /* border-top: 2px solid #b30000;*/
-  border-top: 2px solid #b30000;
+  /* border-top: 2px solid #D6B161;*/
+  border-top: 2px solid #D6B161;
   box-shadow: 0 1px 2px rgba(86, 86, 90, 0.4);
   float: none;
   left: 0;
@@ -601,8 +601,8 @@ label {
 }
 
 .main-menu li ul li:hover>a {
-  /*background: #b30000 none repeat scroll 0 0;*/
-  background: #b30000 none repeat scroll 0 0;
+  /*background: #D6B161 none repeat scroll 0 0;*/
+  background: #D6B161 none repeat scroll 0 0;
   color: #fff;
 }
 
@@ -691,7 +691,7 @@ Header bookmark
 }
 
 .flow-me-list a:hover {
-  color: #b30000;
+  color: #D6B161;
 }
 
 /*-------------------------------------------------------
@@ -843,7 +843,7 @@ Header bookmark
 }
 
 .contact-link {
-  color: #b30000;
+  color: #D6B161;
   font-size: 12px;
   letter-spacing: 1px;
   margin-left: 10px;
@@ -985,7 +985,7 @@ Header bookmark
 .portfolio-filter>li.active a,
 .portfolio-filter>li a:hover,
 .portfolio-cat a:hover {
-  color: #b30000;
+  color: #D6B161;
 }
 
 .portfolio-description {
@@ -1065,7 +1065,7 @@ Header bookmark
 
 .portfolio-style-2 .portfolio-description h4 a:hover,
 .portfolio-style-2 .portfolio-cat a:hover {
-  color: #b30000;
+  color: #D6B161;
 }
 
 .portfolio-style-2 .portfolio-cat {
@@ -1262,7 +1262,7 @@ Header bookmark
 }
 
 .hover-style-one li a::before {
-  background: #b30000 none repeat scroll 0 0;
+  background: #D6B161 none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 1px;
@@ -1345,8 +1345,8 @@ Header bookmark
 }
 
 .tags a:hover {
-  background: #b30000;
-  border: 1px solid #b30000;
+  background: #D6B161;
+  border: 1px solid #D6B161;
   color: #fff;
 }
 
@@ -1362,7 +1362,7 @@ Header bookmark
 }
 
 .post-cat-list a:hover {
-  color: #b30000;
+  color: #D6B161;
 }
 
 .post-cat-list>li:last-child {
@@ -1394,7 +1394,7 @@ Header bookmark
 }
 
 .search-widget button:hover {
-  background: #b30000;
+  background: #D6B161;
   color: #fff;
   border: 1px solid transparent;
   border-left: medium none;
@@ -1548,8 +1548,8 @@ Header bookmark
 .pagination>li>span:hover,
 .pagination>li>a:focus,
 .pagination>li>span:focus {
-  /*background-color: #b30000;*/
-  background-color: #b30000;
+  /*background-color: #D6B161;*/
+  background-color: #D6B161;
   border: 1px solid transparent;
   color: #fff;
   z-index: 2;
@@ -1561,8 +1561,8 @@ Header bookmark
 .pagination>.disabled>a,
 .pagination>.disabled>a:hover,
 .pagination>.disabled>a:focus {
-  /*background-color: #b30000;*/
-  background-color: #b30000;
+  /*background-color: #D6B161;*/
+  background-color: #D6B161;
   border: 1px solid transparent;
   color: #fff;
   cursor: not-allowed;
@@ -1806,7 +1806,7 @@ Header bookmark
 }
 
 .video-play-icon {
-  background: #b30000 none repeat scroll 0 0;
+  background: #D6B161 none repeat scroll 0 0;
   border-radius: 100%;
   color: #fff;
   display: inline-block;
@@ -1823,7 +1823,7 @@ Header bookmark
 }
 
 .video-play-icon:hover {
-  color: #b30000;
+  color: #D6B161;
   background: #fff;
 }
 
@@ -1865,7 +1865,7 @@ Header bookmark
 }
 
 .member-social-links>li a:hover {
-  background: #b30000;
+  background: #D6B161;
 }
 
 .single-member:hover .member-social-links {
@@ -1939,7 +1939,7 @@ Header bookmark
 }
 
 .single-service:hover .service-header i {
-  color: #b30000;
+  color: #D6B161;
 }
 
 /*----------------------------------------
@@ -1989,7 +1989,7 @@ Header bookmark
 }
 
 .single-price-table:hover .prising-head {
-  border-top: 20px solid #b30000;
+  border-top: 20px solid #D6B161;
 }
 
 .prising-head {
@@ -2040,7 +2040,7 @@ Header bookmark
 }
 
 .table-active .prising-head {
-  border-top: 20px solid #b30000;
+  border-top: 20px solid #D6B161;
 }
 
 .price-tage-wrap {
@@ -2139,7 +2139,7 @@ sub.duration {
 }
 
 .client-name span {
-  color: #b30000;
+  color: #D6B161;
   display: block;
   line-height: 1;
   margin-top: 5px;
@@ -2163,7 +2163,7 @@ sub.duration {
 }
 
 .progress-bar {
-  background-color: #b30000;
+  background-color: #D6B161;
   box-shadow: none;
   color: #fff;
   float: left;
@@ -2382,7 +2382,7 @@ sub.duration {
 }
 
 .button-inner-project {
-  color: #b30000;
+  color: #D6B161;
   font-size: 15px;
 }
 
@@ -2476,7 +2476,7 @@ sub.duration {
 
 .related-project-slider .slick-prev:hover,
 .related-project-slider .slick-next:hover {
-  background: #b30000 none repeat scroll 0 0;
+  background: #D6B161 none repeat scroll 0 0;
   border: 1px solid transparent;
 }
 
@@ -2620,7 +2620,7 @@ sub.duration {
 }
 
 .read-more-wrapper .read-more::before {
-  background: #b30000 none repeat scroll 0 0;
+  background: #D6B161 none repeat scroll 0 0;
   bottom: -5px;
   content: "";
   height: 1px;
@@ -2650,7 +2650,7 @@ sub.duration {
 }
 
 .read-more-wrapper .like-count i:hover {
-  color: #b30000;
+  color: #D6B161;
 }
 
 .like-count span {
@@ -2668,8 +2668,8 @@ sub.duration {
 }
 
 .widget-title::before {
-  /*background: #b30000 none repeat scroll 0 0;*/
-  background: #b30000 none repeat scroll 0 0;
+  /*background: #D6B161 none repeat scroll 0 0;*/
+  background: #D6B161 none repeat scroll 0 0;
   content: "";
   height: 13px;
   left: 0;
@@ -2679,8 +2679,8 @@ sub.duration {
 }
 
 .widget-title::after {
-  /*background: #b30000 none repeat scroll 0 0;*/
-  background: #b30000 none repeat scroll 0 0;
+  /*background: #D6B161 none repeat scroll 0 0;*/
+  background: #D6B161 none repeat scroll 0 0;
   content: "";
   height: 13px;
   left: 13px;
@@ -3133,8 +3133,8 @@ pre {
 }
 
 .social-bookmark>li a:hover {
-  /* background: #b30000;*/
-  background: #b30000;
+  /* background: #D6B161;*/
+  background: #D6B161;
 }
 
 .footer-menu {
@@ -3178,7 +3178,7 @@ pre {
 
 .to-top-btn {
   bottom: 30px;
-  color: #b30000;
+  color: #D6B161;
   font-size: 35px;
   opacity: 0;
   position: fixed;
